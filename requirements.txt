@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+Pillow
+opencv-python-headless
+tensorflow
+keras
+streamlit
+tqdm
+
+# pip install -r requirements.txt
